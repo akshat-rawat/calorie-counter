@@ -1,0 +1,32 @@
+.CreateFoodEntry {
+    display: block;
+    /* background-color: blueviolet; */
+    width: 500px;
+}
+
+.CreateFoodEntry form {
+    margin-top: 80px;
+}
+
+.form-div {
+    margin-top: 45px;
+}
+
+.form-label {
+    float: left;
+}
+
+.form-input {
+    margin-top: 10px;
+    float: right;
+    text-align: center;
+}
+
+.ViewFoodEntry {
+    /* width: 100%; */
+    color: #fff;
+}
+
+.table {
+    margin: 25px 0;
+}
